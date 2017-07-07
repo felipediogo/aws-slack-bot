@@ -1,0 +1,11 @@
+{
+  "name": "aws-slack-bot",
+  "version": "1.0.0",
+  "description": "a bot to help software integration and deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "felipediogo",
+  "license": "ISC"
+}
